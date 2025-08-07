@@ -7,7 +7,11 @@ const Navbar = () => {
       <div className="sticky-top bg-white shadow">
         <nav className="navbar mx-5">
           <Link to="/">
-            <img className="logo" src="./src/assets/logo1.svg" alt="" />
+            <img
+              className="logo"
+              src="https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/logo1.svg"
+              alt=""
+            />
           </Link>
           <div className="nav-menu">
             <Link to="/nosotros" className="text-warning">
@@ -19,7 +23,11 @@ const Navbar = () => {
             </Link>
 
             <Link to="/carrito" className="">
-              <img src="src\assets\carrito.png" alt="" className="icon" />
+              <img
+                src="https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/carrito.png"
+                alt=""
+                className="icon"
+              />
             </Link>
           </div>
         </nav>
