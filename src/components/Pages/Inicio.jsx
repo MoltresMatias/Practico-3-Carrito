@@ -10,7 +10,11 @@ const Inicio = () => {
     <div>
       <Navbar />
       <div className="">
-        <img src="./src/assets/image.png" alt="" className="img-fluid" />
+        <img
+          src="https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/image.png"
+          alt=""
+          className="img-fluid"
+        />
       </div>
       <h1 className="fs-1 text-warning m-5 fw-bold ">Productos</h1>
       <div className="row d-flex justify-content-center gap-3">
