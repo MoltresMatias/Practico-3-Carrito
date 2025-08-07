@@ -1,0 +1,30 @@
+.navbar{
+    padding: 20px 0;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    text-decoration: none;
+    
+}
+
+
+
+.logo{
+    width: 150px;
+    height: 51px;
+}
+
+.nav-menu{
+    display: flex;
+    gap: 6px;
+    
+}
+
+.nav-menu a{
+    text-decoration: none;
+    color: black;
+}
+
+.icon{
+    height: 20px;
+}

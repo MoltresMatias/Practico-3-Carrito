@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Lenovo IdeaPad 3",
+    "categoria": "Computadoras",
+    "precio": 499.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "procesador": "Intel Core i5-1135G7",
+      "ram": "8GB DDR4",
+      "almacenamiento": "256GB SSD",
+      "pantalla": "15.6 pulgadas Full HD"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Samsung Galaxy A54",
+    "categoria": "Celulares",
+    "precio": 349.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "pantalla": "6.4 pulgadas Super AMOLED",
+      "procesador": "Exynos 1380",
+      "ram": "6GB",
+      "almacenamiento": "128GB",
+      "camara": "50MP principal"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Auriculares Logitech G435",
+    "categoria": "Accesorios",
+    "precio": 79.99,
+    "disponible": false,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "tipo": "Inalámbricos",
+      "conexion": "Bluetooth / USB",
+      "microfono": "Integrado con cancelación de ruido",
+      "bateria": "Hasta 18 horas"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor LG UltraGear 24GN600",
+    "categoria": "Monitores",
+    "precio": 229.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "tamaño": "24 pulgadas",
+      "resolucion": "1920x1080",
+      "frecuencia": "144Hz",
+      "tipo_panel": "IPS"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Tablet Apple iPad 9ª Gen",
+    "categoria": "Tablets",
+    "precio": 329.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "pantalla": "10.2 pulgadas Retina",
+      "almacenamiento": "64GB",
+      "sistema": "iPadOS",
+      "camara": "8MP trasera / 12MP frontal"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Smartwatch Xiaomi Mi Band 7",
+    "categoria": "Wearables",
+    "precio": 59.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "pantalla": "1.62 pulgadas AMOLED",
+      "bateria": "Hasta 14 días",
+      "resistencia_agua": "5ATM",
+      "sensores": "Ritmo cardíaco, SpO2, sueño"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Teclado Mecánico Redragon Kumara K552",
+    "categoria": "Accesorios",
+    "precio": 49.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "tipo": "Mecánico",
+      "switches": "Outemu Blue",
+      "retroiluminacion": "RGB",
+      "conexion": "USB cableado"
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Mouse Logitech MX Master 3S",
+    "categoria": "Accesorios",
+    "precio": 99.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "tipo": "Ergonómico",
+      "conexion": "Bluetooth / USB receptor",
+      "dpi": "8000",
+      "bateria": "Recargable, hasta 70 días"
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Consola PlayStation 5",
+    "categoria": "Consolas",
+    "precio": 599.99,
+    "disponible": false,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "almacenamiento": "825GB SSD",
+      "resolucion": "Hasta 4K",
+      "controlador": "DualSense",
+      "juegos_incluidos": "No"
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Router TP-Link Archer AX10",
+    "categoria": "Redes",
+    "precio": 89.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "tipo": "Wi-Fi 6",
+      "velocidad": "1200 Mbps",
+      "puertos": "4 LAN + 1 WAN",
+      "bandas": "Dual Band"
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "SSD Kingston NV2 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 74.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "tipo": "NVMe PCIe 4.0",
+      "capacidad": "1TB",
+      "velocidad_lectura": "3500 MB/s",
+      "velocidad_escritura": "2100 MB/s"
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Notebook ASUS TUF Gaming F15",
+    "categoria": "Computadoras",
+    "precio": 899.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "procesador": "Intel Core i7-12700H",
+      "ram": "16GB DDR5",
+      "almacenamiento": "512GB SSD",
+      "gpu": "NVIDIA RTX 3050"
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Cámara Web Logitech C920",
+    "categoria": "Accesorios",
+    "precio": 69.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "resolucion": "1080p Full HD",
+      "microfono": "Estéreo dual",
+      "conexion": "USB",
+      "campo_vision": "78°"
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Impresora HP DeskJet 2775",
+    "categoria": "Impresoras",
+    "precio": 109.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "tipo": "Multifunción",
+      "conexion": "Wi-Fi / USB",
+      "funciones": "Imprimir, escanear, copiar",
+      "compatibilidad": "Windows, macOS"
+    }
+  }
+]
