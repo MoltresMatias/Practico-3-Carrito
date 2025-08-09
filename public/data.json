@@ -1,199 +1,197 @@
 [
   {
     "id": 1,
-    "nombre": "Laptop Lenovo IdeaPad 3",
-    "categoria": "Computadoras",
-    "precio": 499.99,
+    "nombre": "Cable HDMI 2.1 de 2 metros",
+    "cantidad": 1,
+    "precio": 12.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "procesador": "Intel Core i5-1135G7",
-      "ram": "8GB DDR4",
-      "almacenamiento": "256GB SSD",
-      "pantalla": "15.6 pulgadas Full HD"
+      "version": "HDMI 2.1",
+      "longitud": "2 metros",
+      "resolucion_soportada": "8K@60Hz",
+      "material": "Cobre con triple blindaje"
     }
   },
   {
     "id": 2,
-    "nombre": "Smartphone Samsung Galaxy A54",
-    "categoria": "Celulares",
-    "precio": 349.99,
+    "nombre": "Placa madre ASUS Prime B660M-A",
+    "cantidad": 1,
+    "precio": 139.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "pantalla": "6.4 pulgadas Super AMOLED",
-      "procesador": "Exynos 1380",
-      "ram": "6GB",
-      "almacenamiento": "128GB",
-      "camara": "50MP principal"
+      "socket": "LGA1700",
+      "chipset": "Intel B660",
+      "formato": "Micro ATX",
+      "puertos": "USB 3.2, HDMI, M.2"
     }
   },
   {
     "id": 3,
-    "nombre": "Auriculares Logitech G435",
-    "categoria": "Accesorios",
-    "precio": 79.99,
+    "nombre": "Memoria RAM Kingston Fury 16GB DDR4",
+    "cantidad": 1,
+    "precio": 64.99,
     "disponible": false,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "tipo": "Inalámbricos",
-      "conexion": "Bluetooth / USB",
-      "microfono": "Integrado con cancelación de ruido",
-      "bateria": "Hasta 18 horas"
+      "tipo": "DDR4",
+      "capacidad": "16GB",
+      "frecuencia": "3200MHz",
+      "latencia": "CL16"
     }
   },
   {
     "id": 4,
-    "nombre": "Monitor LG UltraGear 24GN600",
-    "categoria": "Monitores",
-    "precio": 229.99,
-    "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
-    "especificaciones": {
-      "tamaño": "24 pulgadas",
-      "resolucion": "1920x1080",
-      "frecuencia": "144Hz",
-      "tipo_panel": "IPS"
-    }
-  },
-  {
-    "id": 5,
-    "nombre": "Tablet Apple iPad 9ª Gen",
-    "categoria": "Tablets",
-    "precio": 329.99,
-    "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
-    "especificaciones": {
-      "pantalla": "10.2 pulgadas Retina",
-      "almacenamiento": "64GB",
-      "sistema": "iPadOS",
-      "camara": "8MP trasera / 12MP frontal"
-    }
-  },
-  {
-    "id": 6,
-    "nombre": "Smartwatch Xiaomi Mi Band 7",
-    "categoria": "Wearables",
+    "nombre": "Fuente de alimentación Corsair CV550",
+    "cantidad": 1,
     "precio": 59.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "pantalla": "1.62 pulgadas AMOLED",
-      "bateria": "Hasta 14 días",
-      "resistencia_agua": "5ATM",
-      "sensores": "Ritmo cardíaco, SpO2, sueño"
+      "potencia": "550W",
+      "certificacion": "80 Plus Bronze",
+      "modular": "No",
+      "conectores": "ATX, SATA, PCIe"
     }
   },
   {
-    "id": 7,
-    "nombre": "Teclado Mecánico Redragon Kumara K552",
-    "categoria": "Accesorios",
+    "id": 5,
+    "nombre": "Disco duro WD Blue 1TB",
+    "cantidad": 1,
     "precio": 49.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "tipo": "Mecánico",
-      "switches": "Outemu Blue",
-      "retroiluminacion": "RGB",
-      "conexion": "USB cableado"
+      "tipo": "HDD",
+      "capacidad": "1TB",
+      "velocidad": "7200 RPM",
+      "interfaz": "SATA III"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Kit de limpieza para PC",
+    "cantidad": 1,
+    "precio": 19.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "contenido": "Aire comprimido, paño microfibra, alcohol isopropílico",
+      "uso": "Limpieza de componentes",
+      "seguridad": "Antiestático"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Adaptador USB Wi-Fi TP-Link TL-WN725N",
+    "cantidad": 1,
+    "precio": 14.99,
+    "disponible": true,
+    "imagen": "https://picsum.photos/400/300",
+    "especificaciones": {
+      "tipo": "Nano USB",
+      "velocidad": "150 Mbps",
+      "frecuencia": "2.4GHz",
+      "compatibilidad": "Windows, Linux"
     }
   },
   {
     "id": 8,
-    "nombre": "Mouse Logitech MX Master 3S",
-    "categoria": "Accesorios",
-    "precio": 99.99,
+    "nombre": "Pasta térmica Arctic MX-4",
+    "cantidad": 1,
+    "precio": 7.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "tipo": "Ergonómico",
-      "conexion": "Bluetooth / USB receptor",
-      "dpi": "8000",
-      "bateria": "Recargable, hasta 70 días"
+      "conductividad": "8.5 W/mK",
+      "tipo": "No conductiva eléctricamente",
+      "uso": "CPU / GPU",
+      "duracion": "Hasta 8 años"
     }
   },
   {
     "id": 9,
-    "nombre": "Consola PlayStation 5",
-    "categoria": "Consolas",
-    "precio": 599.99,
+    "nombre": "Tester digital multímetro DT830B",
+    "cantidad": 1,
+    "precio": 24.99,
     "disponible": false,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "almacenamiento": "825GB SSD",
-      "resolucion": "Hasta 4K",
-      "controlador": "DualSense",
-      "juegos_incluidos": "No"
+      "mediciones": "Voltaje, corriente, resistencia",
+      "pantalla": "LCD",
+      "alimentacion": "Batería 9V",
+      "seguridad": "Protección contra sobrecarga"
     }
   },
   {
     "id": 10,
-    "nombre": "Router TP-Link Archer AX10",
-    "categoria": "Redes",
-    "precio": 89.99,
+    "nombre": "Cables jumper para protoboard (set de 65)",
+    "cantidad": 1,
+    "precio": 5.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "tipo": "Wi-Fi 6",
-      "velocidad": "1200 Mbps",
-      "puertos": "4 LAN + 1 WAN",
-      "bandas": "Dual Band"
+      "tipos": "Macho-macho, macho-hembra, hembra-hembra",
+      "longitudes": "Variadas",
+      "uso": "Prototipado electrónico",
+      "compatibilidad": "Arduino, Raspberry Pi"
     }
   },
   {
     "id": 11,
-    "nombre": "SSD Kingston NV2 1TB",
-    "categoria": "Almacenamiento",
-    "precio": 74.99,
+    "nombre": "Microcontrolador Arduino Uno R3",
+    "cantidad": 1,
+    "precio": 29.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "tipo": "NVMe PCIe 4.0",
-      "capacidad": "1TB",
-      "velocidad_lectura": "3500 MB/s",
-      "velocidad_escritura": "2100 MB/s"
+      "chip": "ATmega328P",
+      "puertos": "Digitales, analógicos, USB",
+      "voltaje": "5V",
+      "memoria": "32KB Flash"
     }
   },
   {
     "id": 12,
-    "nombre": "Notebook ASUS TUF Gaming F15",
-    "categoria": "Computadoras",
-    "precio": 899.99,
+    "nombre": "Sensor de temperatura DHT11",
+    "cantidad": 1,
+    "precio": 3.49,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "procesador": "Intel Core i7-12700H",
-      "ram": "16GB DDR5",
-      "almacenamiento": "512GB SSD",
-      "gpu": "NVIDIA RTX 3050"
+      "rango_temperatura": "0–50°C",
+      "humedad": "20–90% RH",
+      "salida": "Digital",
+      "voltaje_operacion": "3.3–5V"
     }
   },
   {
     "id": 13,
-    "nombre": "Cámara Web Logitech C920",
-    "categoria": "Accesorios",
-    "precio": 69.99,
+    "nombre": "Protoboard 830 puntos",
+    "cantidad": 1,
+    "precio": 9.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "resolucion": "1080p Full HD",
-      "microfono": "Estéreo dual",
-      "conexion": "USB",
-      "campo_vision": "78°"
+      "tamaño": "165 x 55 mm",
+      "material": "ABS",
+      "compatibilidad": "Componentes DIP",
+      "uso": "Circuitos temporales"
     }
   },
   {
     "id": 14,
-    "nombre": "Impresora HP DeskJet 2775",
-    "categoria": "Impresoras",
-    "precio": 109.99,
+    "nombre": "Módulo relé 5V de 1 canal",
+    "cantidad": 1,
+    "precio": 4.99,
     "disponible": true,
     "imagen": "https://picsum.photos/400/300",
     "especificaciones": {
-      "tipo": "Multifunción",
-      "conexion": "Wi-Fi / USB",
-      "funciones": "Imprimir, escanear, copiar",
-      "compatibilidad": "Windows, macOS"
+      "voltaje_operacion": "5V",
+      "corriente_maxima": "10A",
+      "aislamiento": "Optoacoplador",
+      "uso": "Control de cargas AC/DC"
     }
   }
 ]
