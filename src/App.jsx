@@ -1,4 +1,3 @@
-import React from "react";
 import Rutas from "./Routing/Rutas";
 
 function App() {

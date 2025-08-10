@@ -5,7 +5,7 @@ function PrecioFinal() {
 
   return (
     <div>
-      <h3 className="text-center">Precio Final: $ {precioFinal} </h3>
+      <h4 className="text-center">Precio Final: $ {precioFinal} </h4>
     </div>
   );
 }

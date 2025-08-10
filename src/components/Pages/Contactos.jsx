@@ -1,12 +1,13 @@
-import React from "react";
 import Navbar from "../Layout/Navbar";
 import Footer from "../Layout/Footer";
+import Formulario from "../Layout/Formulario";
 
 const Contactos = () => {
   return (
-    <div>
+    <div className="container-fluid">
       <Navbar />
-      Contactos
+      <h3 className="text-center my-5">¿En que podemos ayudar?</h3>
+      <Formulario />
       <Footer />
     </div>
   );

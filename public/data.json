@@ -5,7 +5,7 @@
     "cantidad": 1,
     "precio": 12.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id1.png",
     "especificaciones": {
       "version": "HDMI 2.1",
       "longitud": "2 metros",
@@ -19,7 +19,7 @@
     "cantidad": 1,
     "precio": 139.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id2.png",
     "especificaciones": {
       "socket": "LGA1700",
       "chipset": "Intel B660",
@@ -33,7 +33,7 @@
     "cantidad": 1,
     "precio": 64.99,
     "disponible": false,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id3.png",
     "especificaciones": {
       "tipo": "DDR4",
       "capacidad": "16GB",
@@ -47,7 +47,7 @@
     "cantidad": 1,
     "precio": 59.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id4.png",
     "especificaciones": {
       "potencia": "550W",
       "certificacion": "80 Plus Bronze",
@@ -61,7 +61,7 @@
     "cantidad": 1,
     "precio": 49.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id5.png",
     "especificaciones": {
       "tipo": "HDD",
       "capacidad": "1TB",
@@ -75,7 +75,7 @@
     "cantidad": 1,
     "precio": 19.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id6.png",
     "especificaciones": {
       "contenido": "Aire comprimido, paño microfibra, alcohol isopropílico",
       "uso": "Limpieza de componentes",
@@ -88,7 +88,7 @@
     "cantidad": 1,
     "precio": 14.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id7.png",
     "especificaciones": {
       "tipo": "Nano USB",
       "velocidad": "150 Mbps",
@@ -102,7 +102,7 @@
     "cantidad": 1,
     "precio": 7.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id8.png",
     "especificaciones": {
       "conductividad": "8.5 W/mK",
       "tipo": "No conductiva eléctricamente",
@@ -116,7 +116,7 @@
     "cantidad": 1,
     "precio": 24.99,
     "disponible": false,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id9.png",
     "especificaciones": {
       "mediciones": "Voltaje, corriente, resistencia",
       "pantalla": "LCD",
@@ -130,7 +130,7 @@
     "cantidad": 1,
     "precio": 5.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id10.png",
     "especificaciones": {
       "tipos": "Macho-macho, macho-hembra, hembra-hembra",
       "longitudes": "Variadas",
@@ -144,7 +144,7 @@
     "cantidad": 1,
     "precio": 29.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id11.png",
     "especificaciones": {
       "chip": "ATmega328P",
       "puertos": "Digitales, analógicos, USB",
@@ -158,7 +158,7 @@
     "cantidad": 1,
     "precio": 3.49,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id12.png",
     "especificaciones": {
       "rango_temperatura": "0–50°C",
       "humedad": "20–90% RH",
@@ -172,7 +172,7 @@
     "cantidad": 1,
     "precio": 9.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id13.png",
     "especificaciones": {
       "tamaño": "165 x 55 mm",
       "material": "ABS",
@@ -186,7 +186,7 @@
     "cantidad": 1,
     "precio": 4.99,
     "disponible": true,
-    "imagen": "https://picsum.photos/400/300",
+    "imagen": "https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/id14.png",
     "especificaciones": {
       "voltaje_operacion": "5V",
       "corriente_maxima": "10A",

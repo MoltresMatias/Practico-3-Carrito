@@ -1,14 +1,16 @@
 .btn-buy{
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
-    position: absolute;
     width: 200px;
     height: 50px;
-    top: 360px;
-    right: 120px;
     color: black;
 
 }
 .boton{
     cursor: pointer;
 }
+
+.card-pro{
+    width: 500px;
+}
+

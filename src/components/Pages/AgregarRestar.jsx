@@ -7,13 +7,13 @@ function AgregarRestar({ propiedad }) {
 
   return (
     <div className="d-flex gap-5">
-      <h3 onClick={() => restarProducto(propiedad.id)} className="boton">
+      <h5 onClick={() => restarProducto(propiedad.id)} className="boton">
         -
-      </h3>
-      <h3>{propiedad.cantidad}</h3>
-      <h3 onClick={() => agregarProductos(propiedad)} className="boton ">
+      </h5>
+      <h5>{propiedad.cantidad}</h5>
+      <h5 onClick={() => agregarProductos(propiedad)} className="boton ">
         +
-      </h3>
+      </h5>
     </div>
   );
 }

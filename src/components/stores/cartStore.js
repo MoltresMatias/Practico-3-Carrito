@@ -44,7 +44,7 @@ export const useCartStore = create((set, get) => ({
         get().carrito.reduce(
             (sum, prod) => sum + prod.precio * prod.cantidad,
             0
-        ),
+        ).toFixed(2),
 
 
 }))

@@ -27,4 +27,20 @@
 
 .icon{
     height: 20px;
+    transition: 0.5ms ease;
+}
+
+.carrito{
+    top: 2rem;
+    position: absolute;
+    right: 2rem;
+    width: 700px;
+}
+
+.btn-cart{
+    cursor: pointer;
+}
+
+.icon:hover {
+    filter: drop-shadow(0.1px 0.1px 1px rgb(0, 195, 255));
 }

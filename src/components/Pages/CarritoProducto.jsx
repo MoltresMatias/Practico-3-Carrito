@@ -9,15 +9,14 @@ function CarritoProducto() {
   return carrito.map((product) => {
     return (
       <div
-        className="border  p-2 d-flex align-items-center justify-content-between row "
+        className="p-2 d-flex align-items-center justify-content-between row border-bottom"
         key={product.id}
       >
-        <div className=" d-flex align-items-center justify-content-start gap-3 col-9">
+        <div className=" d-flex align-items-center justify-content-start gap-3 col-6">
           <img className="" height="70px" src={product.imagen} alt="" />
           <div className="">
-            <h3 className="fs-5">{product.nombre}</h3>
-            <h4 className="fs-5">{product.precio}</h4>
-            <h4 className="fs-5">{product.cantidad}</h4>
+            <h6 className="">{product.nombre}</h6>
+            <h6 className="">c/u ${product.precio}</h6>
           </div>
         </div>
         <div className="col-1">

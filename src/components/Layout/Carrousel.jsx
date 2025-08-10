@@ -6,7 +6,7 @@ function Carrousel() {
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img
-                src="../src/assets/image 4.png"
+                src="https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/image%204.png"
                 class="d-block w-100"
                 alt="..."
               />
@@ -20,7 +20,7 @@ function Carrousel() {
             </div>
             <div class="carousel-item">
               <img
-                src="../src/assets/image6.png"
+                src="https://egtdw4nfmfjqzug0.public.blob.vercel-storage.com/image6.png"
                 class="d-block w-100"
                 alt="..."
               />
