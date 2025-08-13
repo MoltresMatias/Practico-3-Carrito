@@ -35,6 +35,7 @@
     position: absolute;
     right: 2rem;
     width: 700px;
+    margin: 0 30px;
 }
 
 .btn-cart{
@@ -43,4 +44,44 @@
 
 .icon:hover {
     filter: drop-shadow(0.1px 0.1px 1px rgb(0, 195, 255));
+}
+
+.sidebar {
+  position: fixed;
+  top: 30;
+  right: -120px;
+  width: 120px;
+  height: 100%;
+  background-color: #fff8e1;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.2);
+  transition: left 0.3s ease;
+  z-index: 1000;
+}
+
+.sidebar.open {
+  right: 0px;
+}
+
+.sidebar .close-btn {
+  background: none;
+  border: none;
+  padding-right: 10px;
+  font-size: 24px;
+  float: right;
+  cursor: pointer;
+}
+
+.sidebar ul {
+  list-style: none;
+  margin-top: 40px;
+}
+
+.sidebar ul li {
+  margin: 20px 0;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: #6a00ff;
+  font-weight: bold;
 }
