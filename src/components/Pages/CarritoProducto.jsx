@@ -12,17 +12,20 @@ function CarritoProducto() {
         className="p-2 d-flex align-items-center justify-content-between row border-bottom"
         key={product.id}
       >
-        <div className=" d-flex align-items-center justify-content-start gap-3 col-6">
+        <div className=" gap-3 col-md-6 col-6">
           <img className="" height="70px" src={product.imagen} alt="" />
           <div className="">
             <h6 className="">{product.nombre}</h6>
             <h6 className="">c/u ${product.precio}</h6>
           </div>
+          <div className="">
+            <AgregarRestar propiedad={product} />
+          </div>
         </div>
-        <div className="col-1">
-          <AgregarRestar propiedad={product} />
-        </div>
-        <h3 onClick={() => borrarProducto(product.id)} className=" boton col-1">
+        <h3
+          onClick={() => borrarProducto(product.id)}
+          className="boton col-md-2 col-3 px-1"
+        >
           ❎
         </h3>
       </div>
